@@ -1,6 +1,6 @@
 # PUBG DMA Vision
 
-**The complete PUBG DMA solution.** Runs on a second machine and reads the
+**The complete PUBG DMA package.** Runs on a second machine and reads the
 game over a DMA card.
 
 <p align="center">
