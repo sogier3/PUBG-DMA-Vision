@@ -1,9 +1,10 @@
 # PUBG DMA Vision
 
-Runs on a second machine and reads the game over a DMA card. Free.
+**The complete PUBG DMA solution.** Runs on a second machine and reads the
+game over a DMA card.
 
 <p align="center">
-  <a href="https://discord.gg/Hd7vDXG3aQ"><img src="https://img.shields.io/badge/get%20your%20key-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Get your key"></a>
+  <a href="https://discord.gg/Hd7vDXG3aQ"><img src="https://img.shields.io/badge/get%20it%20for%20free%20on%20discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Get it for free on Discord"></a>
 </p>
 
 ![Players](players-close.jpg)
