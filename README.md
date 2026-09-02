@@ -1,10 +1,9 @@
 # PUBG DMA Vision
 
-Free. Runs on a second machine and reads the game over a DMA card.
+Runs on a second machine and reads the game over a DMA card. Free.
 
 <p align="center">
-  <a href="https://discord.gg/Hd7vDXG3aQ"><img src="https://img.shields.io/badge/get%20your%20free%20key%20now-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Get your free key now"></a>
-  <img src="https://img.shields.io/badge/everything-free-2ea043?style=for-the-badge" alt="Free">
+  <a href="https://discord.gg/Hd7vDXG3aQ"><img src="https://img.shields.io/badge/get%20your%20key-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Get your key"></a>
 </p>
 
 ![Players](players-close.jpg)
@@ -248,7 +247,7 @@ Set these once, then set Speed on the Aim page.
 
 </details>
 
-## Get your free key
+## Getting a key
 
 1. **[Join the Discord](https://discord.gg/Hd7vDXG3aQ)** and open a ticket
 2. Say hello
@@ -262,4 +261,4 @@ The loader keeps itself and everything else up to date.
 No. Set your mouse speed once and that is all.
 
 **Is it really free?**
-Yes. Join, open a ticket, get a key.
+Yes.
