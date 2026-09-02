@@ -68,6 +68,7 @@ Free. Runs on a second machine and reads the game over a DMA card.
 - Light weapons handled apart from rifles
 - One setting covers every scope
 - Runs only while the aim key is held and the trigger is down
+- MAKCU over serial, or kmbox net over the network
 
 ## Grenades, radar, the zone
 
@@ -176,6 +177,10 @@ Bone: head, neck, chest, pelvis. Priority: closest to the crosshair, or
 closest in metres. Aim key: any mouse button, a second key, or a keyboard
 key. Trajectory: the game's own data, or the older estimate.
 
+Devices: MAKCU down a serial cable, with the COM port found for you, or
+kmbox net over the network with its own address, port and MAC. A test move on
+the page proves the connection before you rely on it.
+
 **Sniper and DMR**
 
 Their own field of view, max distance, smoothing, speed, lead and bone, all
@@ -210,7 +215,7 @@ a hotkey take effect.
 
 - Two PCs
 - A DMA card
-- A MAKCU
+- A MAKCU, or a kmbox net
 - An HDMI fuser
 - Both machines on the same resolution and the same refresh rate
 
