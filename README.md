@@ -225,6 +225,9 @@ a hotkey take effect.
 
 ## Latest
 
+**15 September** - Small fixes across the board, tracked while the next
+things get built.
+
 **3 September** - Hit markers. Three shapes, sized by how hard the round hit,
 driven by the damage figure the game keeps rather than by anything on screen.
 
