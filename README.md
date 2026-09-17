@@ -225,6 +225,9 @@ a hotkey take effect.
 
 ## Latest
 
+**17 September** - More work on stability, so a rough moment on the game's
+side is less likely to be felt on this one.
+
 **15 September** - Small fixes across the board, tracked while the next
 things get built.
 
