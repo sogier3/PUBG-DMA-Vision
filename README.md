@@ -77,6 +77,8 @@ game over a DMA card.
 - Your own throw shown before you let go
 - Radar with everyone around you, the safe zone and the blue zone
 - Distance to the edge of the zone
+- Dots inside the game's own minimap
+- The full map, open on M, with everyone on it
 
 ## Everything is yours to set
 
@@ -224,6 +226,9 @@ a hotkey take effect.
 </details>
 
 ## Latest
+
+**18 September** - The full map and the in-game minimap now show dots for
+everyone, on top of the radar.
 
 **17 September** - More work on stability, so a rough moment on the game's
 side is less likely to be felt on this one.
