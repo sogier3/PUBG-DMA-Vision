@@ -227,6 +227,9 @@ a hotkey take effect.
 
 ## Latest
 
+**22 September** - Small fixes and stability work, tracked while the next
+things get built.
+
 **18 September** - The full map and the in-game minimap now show dots for
 everyone, on top of the radar.
 
