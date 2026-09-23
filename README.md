@@ -227,6 +227,9 @@ a hotkey take effect.
 
 ## Latest
 
+**23 September** - A simpler menu, smoother drawing, and a fix for clicks
+over kmbox net.
+
 **22 September** - Small fixes and stability work, tracked while the next
 things get built.
 
