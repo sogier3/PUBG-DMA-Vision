@@ -227,6 +227,9 @@ a hotkey take effect.
 
 ## Latest
 
+**1 October** - Enemy ammo count and a reload warning over players, both
+off by default, and hotkeys fixed on Windows 10.
+
 **29 September** - Small fixes and stability work.
 
 **27 September** - A new loader, and small fixes across the board.
