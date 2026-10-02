@@ -4,7 +4,7 @@
 game over a DMA card.
 
 <p align="center">
-  <a href="https://discord.gg/Hd7vDXG3aQ"><img src="https://img.shields.io/badge/get%20it%20for%20free%20on%20discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Get it for free on Discord"></a>
+  <a href="https://discord.gg/Hd7vDXG3aQ"><img src="https://img.shields.io/badge/get%20a%20free%20trial%20on%20discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Get a free trial on Discord"></a>
 </p>
 
 <img src="players-close.jpg" width="380" alt="Players">
@@ -308,5 +308,5 @@ The loader keeps itself and everything else up to date.
 **Anything to calibrate?**
 No. Set your mouse speed once and that is all.
 
-**Is it really free?**
-Yes.
+**Can I try it first?**
+Yes. Open a ticket on the Discord and ask for a free trial.
